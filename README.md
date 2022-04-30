@@ -23,3 +23,6 @@ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 ### Tradable Cryptocurrencies Table
 
 ### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
+
+## Summary
+We have identified the classification of 532 cryptocurrencies based on similarities of their features. 
