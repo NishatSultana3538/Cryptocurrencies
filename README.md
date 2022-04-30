@@ -13,16 +13,20 @@ We use the following methods for the analysis:
 We don't know what would be the output of the analysis so we are using unsupervised machine learning to identify clusters of the cryptocurrencies.
 We produced the elbow curve below using the K-Means method iterating on k values from 1 to 10.
 
+![elbow_curve](https://github.com/NishatSultana3538/Cryptocurrencies/blob/main/image/elbow.png)
+
 ## Visualizing Cryptocurrencies Results
 ### 3D-Scatter plot with clusters
 
 This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
+
+![3D PLOT](https://github.com/NishatSultana3538/Cryptocurrencies/blob/main/image/hvplot.png)
 
 
 
 ### Tradable Cryptocurrencies Table
 
 ### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
-
+![2D PLOT](https://github.com/NishatSultana3538/Cryptocurrencies/blob/main/image/scatterplot.png)
 ## Summary
 We have identified the classification of 532 cryptocurrencies based on similarities of their features. 
